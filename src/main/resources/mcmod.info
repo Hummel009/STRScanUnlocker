@@ -1,0 +1,19 @@
+[
+{
+  "modid": "unlocker",
+  "name": "STRScanUnlocker",
+  "description": "This mod unlocks strscan command from the Lord of the Rings Mod",
+  "version": "1.0",
+  "credits": "Hummel009",
+  "logoFile": "",
+  "mcversion": "1.7.10",
+  "url": "lotrminecraftmod.fandom.com/ru",
+  "updateUrl": "",
+  "authors": [ "Hummel009" ],
+  "parent": "",
+  "screenshots": [],
+  "dependencies": [
+     "mod_MinecraftForge"
+  ]
+}
+]
