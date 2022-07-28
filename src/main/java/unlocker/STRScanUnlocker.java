@@ -5,7 +5,7 @@ import cpw.mods.fml.common.event.FMLServerStartingEvent;
 import lotr.common.command.LOTRCommandStrScan;
 import net.minecraft.command.ICommand;
 
-@Mod(modid="unlocker", dependencies="required-after:lotr")
+@Mod(modid="unlocker", version="1.0", dependencies="required-after:lotr")
 public class STRScanUnlocker {
     @Mod.EventHandler
     public void serverStarting(FMLServerStartingEvent e) {
