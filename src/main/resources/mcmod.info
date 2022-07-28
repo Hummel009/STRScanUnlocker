@@ -3,6 +3,7 @@
 		"authorList": "Hummel009",
 		"credits": "Hummel009",
 		"description": "This mod unlocks strscan command from the Lord of the Rings Mod",
+		"mcversion": "1.7.10",
 		"modid": "unlocker",
 		"name": "STRScanUnlocker",
 		"url": "https://github.com/Hummel009",
