@@ -1,3 +1,5 @@
-Hello everybody!
+Простенький аддон к моду "Властелин колец" для Minecraft 1.7.10. Добавляет, а точнее, разблокирует команду для сохранения построек из игры в формате, пригодном для использования в коде.
 
-I am the developer of different mods for Minecraft, including this one, and I have posted the latest source code here. This mod useless for most users; repo is created for safekeeping.
+https://lotrminecraftmod.fandom.com/ru/wiki/STRScanUnlocker - статья, в которой подробно описано использование мода.
+
+Если скачать репозиторий и положить его по пути D:/Eclipse/Minecraft/STRScanUnlocker, то, по идее, его потом можно спокойно импортировать в Eclipse или открыть через IntelliJ IDEA. Подразумевается, что на компьютере как минимум 1 раз выполнялась команда "gradlew setupDecompWorkspace eclipse".
