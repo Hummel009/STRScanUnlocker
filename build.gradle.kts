@@ -1,5 +1,3 @@
-import org.jetbrains.gradle.ext.Gradle
-import org.jetbrains.gradle.ext.RunConfigurationContainer
 import java.time.LocalDate
 import java.time.format.DateTimeFormatter
 
@@ -24,28 +22,6 @@ java {
 minecraft {
 	mcVersion.set("1.7.10")
 	username.set("Hummel009")
-}
-
-idea {
-	project {
-		this.withGroovyBuilder {
-			"settings" {
-				"runConfigurations" {
-					val self = this.delegate as RunConfigurationContainer
-					self.add(
-						Gradle("1. Run Client").apply {
-							setProperty("taskNames", listOf("runClient"))
-						},
-					)
-					self.add(
-						Gradle("2. Run Server").apply {
-							setProperty("taskNames", listOf("runServer"))
-						},
-					)
-				}
-			}
-		}
-	}
 }
 
 tasks {
