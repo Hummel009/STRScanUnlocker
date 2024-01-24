@@ -9,7 +9,8 @@
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=Hummel009_STRScanUnlocker&metric=sqale_index)](https://sonarcloud.io/summary/overall?id=Hummel009_STRScanUnlocker)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=Hummel009_STRScanUnlocker&metric=ncloc)](https://sonarcloud.io/summary/overall?id=Hummel009_STRScanUnlocker)
 
-STRScanUnlocker - аддон к моду "Властелин колец" для Minecraft 1.7.10. Добавляет команду для сканирования структур в формате мода "Властелин колец".
+STRScanUnlocker - аддон к моду "Властелин колец" для Minecraft 1.7.10. Добавляет команду для сканирования структур в
+формате мода "Властелин колец".
 
 https://lotrminecraftmod.fandom.com/ru/wiki/STRScanUnlocker - статья, в которой подробно описан мод.
 
