@@ -54,7 +54,7 @@ https://lotrminecraftmod.fandom.com/ru/wiki/STRScanUnlocker - статья, в �
 
 [technical_debt_badge]: https://sonarcloud.io/api/project_badges/measure?project=STRScanUnlocker&metric=sqale_index
 
-[technical_debt_link]: https://sonarcloud.io/summary/overall?id=STRScanUnlocker
+[technical_debt_link]: https://sonarcloud.io/summary/overall?id=Hummel009_STRScanUnlocker
 
 [lines_of_code_badge]: https://sonarcloud.io/api/project_badges/measure?project=Hummel009_STRScanUnlocker&metric=ncloc
 
