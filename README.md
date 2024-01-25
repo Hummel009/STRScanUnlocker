@@ -21,22 +21,41 @@ https://lotrminecraftmod.fandom.com/ru/wiki/STRScanUnlocker - статья, в �
 <!----------------------------------------------------------------------------->
 
 [code_smells_badge]: https://sonarcloud.io/api/project_badges/measure?project=STRScanUnlocker&metric=code_smells
+
 [code_smells_link]: https://sonarcloud.io/summary/overall?id=STRScanUnlocker
+
 [maintainability_rating_badge]: https://sonarcloud.io/api/project_badges/measure?project=STRScanUnlocker&metric=sqale_rating
+
 [maintainability_rating_link]: https://sonarcloud.io/summary/overall?id=STRScanUnlocker
+
 [security_rating_badge]: https://sonarcloud.io/api/project_badges/measure?project=STRScanUnlocker&metric=security_rating
+
 [security_rating_link]: https://sonarcloud.io/summary/overall?id=STRScanUnlocker
+
 [bugs_badge]: https://sonarcloud.io/api/project_badges/measure?project=STRScanUnlocker&metric=bugs
+
 [bugs_link]: https://sonarcloud.io/summary/overall?id=STRScanUnlocker
+
 [vulnerabilities_badge]: https://sonarcloud.io/api/project_badges/measure?project=STRScanUnlocker&metric=vulnerabilities
+
 [vulnerabilities_link]: https://sonarcloud.io/summary/overall?id=STRScanUnlocker
+
 [duplicated_lines_density_badge]: https://sonarcloud.io/api/project_badges/measure?project=STRScanUnlocker&metric=duplicated_lines_density
+
 [duplicated_lines_density_link]: https://sonarcloud.io/summary/overall?id=STRScanUnlocker
+
 [reliability_rating_badge]: https://sonarcloud.io/api/project_badges/measure?project=STRScanUnlocker&metric=reliability_rating
+
 [reliability_rating_link]: https://sonarcloud.io/summary/overall?id=STRScanUnlocker
+
 [quality_gate_status_badge]: https://sonarcloud.io/api/project_badges/measure?project=STRScanUnlocker&metric=alert_status
+
 [quality_gate_status_link]: https://sonarcloud.io/summary/overall?id=STRScanUnlocker
+
 [technical_debt_badge]: https://sonarcloud.io/api/project_badges/measure?project=STRScanUnlocker&metric=sqale_index
+
 [technical_debt_link]: https://sonarcloud.io/summary/overall?id=STRScanUnlocker
+
 [lines_of_code_badge]: https://sonarcloud.io/api/project_badges/measure?project=STRScanUnlocker&metric=ncloc
+
 [lines_of_code_link]: https://sonarcloud.io/summary/overall?id=STRScanUnlocker
