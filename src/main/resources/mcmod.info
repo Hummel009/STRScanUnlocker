@@ -1,6 +1,6 @@
 [
 	{
-		"modid": "unlocker",
+		"modid": "strscan",
 		"name": "STRScanUnlocker",
 		"description": "This mod unlocks strscan command in the Lord of the Rings Mod.",
 		"version": "24.02.29",
