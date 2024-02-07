@@ -7,7 +7,7 @@ import lotr.common.command.LOTRCommandStrScan;
 @Mod(modid = "strscan", dependencies = "required-after:lotr", useMetadata = true)
 public class Main {
 	@Mod.EventHandler
-	public void serverStarting(FMLServerStartingEvent e) {
-		e.registerServerCommand(new LOTRCommandStrScan());
+	public void serverStarting(FMLServerStartingEvent event) {
+		event.registerServerCommand(new LOTRCommandStrScan());
 	}
 }
